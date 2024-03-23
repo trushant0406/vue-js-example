@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Trushant",
+      "email": "trushant@test.com",
+      "mobile": "1234567",
+      "dob": "2023-06-13",
+      "createdAt": "2023-06-13T05:17:13.922Z",
+      "id": 2
+    },
+    {
+      "name": "t",
+      "email": "t1",
+      "mobile": "12",
+      "dob": "2023-06-08",
+      "createdAt": "2023-06-13T03:59:53.713Z",
+      "id": 4
+    },
+    {
+      "name": "Alic",
+      "email": "alic@test.com",
+      "mobile": "123456789",
+      "dob": "2023-06-01",
+      "createdAt": "2023-06-13T05:17:36.775Z",
+      "id": 9
+    },
+    {
+      "name": "Bob",
+      "email": "bob@test.com",
+      "mobile": "123456787",
+      "dob": "2023-01-16",
+      "createdAt": "2023-06-13T05:18:12.296Z",
+      "id": 10
+    }
+  ]
+}
